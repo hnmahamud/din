@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f04b6f7-e6ac-4c75-83c1-acf5a4bdc09f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1RazOjfaQeWbGCt87HLQlEufnDd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/Dinajpur_Medical_College" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/page" />
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shaon\WebstormProjects\Lab_Project\img\Dinajpur_Medical_College" />
+      <recent name="C:\Users\Shaon\WebstormProjects\Lab_Project\img\HSTU" />
+      <recent name="C:\Users\Shaon\WebstormProjects\Lab_Project\img\Rajbari_Sukh_Sagar" />
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f04b6f7-e6ac-4c75-83c1-acf5a4bdc09f" name="Default Changelist" comment="" />
+      <created>1569919964167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569919964167</updated>
+      <workItem from="1569919965887" duration="12840000" />
+      <workItem from="1570009638928" duration="3929000" />
+      <workItem from="1570021024264" duration="3568000" />
+      <workItem from="1570198264583" duration="1863000" />
+      <workItem from="1570278040369" duration="2626000" />
+      <workItem from="1570356371260" duration="1237000" />
+      <workItem from="1570433040225" duration="2000000" />
+      <workItem from="1570466413281" duration="47000" />
+      <workItem from="1570608284641" duration="4063000" />
+      <workItem from="1570698685251" duration="6668000" />
+      <workItem from="1570951825034" duration="2590000" />
+      <workItem from="1571044230089" duration="6005000" />
+      <workItem from="1571128198562" duration="14273000" />
+      <workItem from="1571220867547" duration="15000" />
+      <workItem from="1572840956625" duration="36000" />
+      <workItem from="1572861371597" duration="8658000" />
+      <workItem from="1572881958194" duration="9432000" />
+      <workItem from="1572892354229" duration="9343000" />
+      <workItem from="1572940863394" duration="928000" />
+      <workItem from="1572977772104" duration="10130000" />
+      <workItem from="1573022421798" duration="577000" />
+      <workItem from="1573023375743" duration="894000" />
+      <workItem from="1573053101664" duration="6441000" />
+      <workItem from="1573061131225" duration="250000" />
+      <workItem from="1573061404020" duration="19000" />
+      <workItem from="1573061942300" duration="12316000" />
+      <workItem from="1573109420041" duration="165000" />
+      <workItem from="1573110177500" duration="607000" />
+      <workItem from="1573230692685" duration="582000" />
+      <workItem from="1573231312719" duration="6404000" />
+      <workItem from="1573242787888" duration="741000" />
+      <workItem from="1573281900785" duration="2594000" />
+      <workItem from="1573316283166" duration="7658000" />
+      <workItem from="1574947477796" duration="11070000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1574963910086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1574963910086" />
+    <state x="279" y="57" key="SettingsEditor" timestamp="1574948037860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1574948037860" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1574947718034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1574947718034" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

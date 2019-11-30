@@ -1,0 +1,575 @@
+/*CSS for index file*/
+/*Navbar*/
+#MainNav{
+  box-shadow: 0 3px 3px rgba(0,0,0,0.15);
+}
+#MainNav .navbar {
+  padding:0;
+}
+#MainNav .navbar-brand img {
+  min-height: 58px;
+}
+#first-nav{
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  background-color: #ffffff;
+  padding: 0;
+  font-weight: lighter;
+  color: #999999;
+  border-bottom: 1px solid #eee;
+}
+#first-nav .navbar-nav .nav-link {
+  color: #999999;
+  font-size: 14px;
+  font-weight: 300;
+  padding: 5px 7px;
+}
+#first-nav .navbar-nav.nav-flex-icons .nav-link {
+  border-radius: 0;
+  font-size: 16px;
+}
+#first-nav .navbar-nav.nav-flex-icons .nav-link:hover {
+  background: #ececec;
+  color: #999999;
+}
+#secondNav{
+  background-color: white;
+  color: black;
+}
+#secondNav .navbar-nav .nav-link {
+  border-radius: 0;
+  color: #999999;
+  padding: 1.5rem 0.75rem;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 14px;
+
+}
+#secondNav .navbar-nav .nav-link:hover {
+  background: #ececec;
+  color: #999999;
+}
+.navbar-nav .nav-item.active .nav-link {
+  color:#999999;;
+}
+
+.dropdown-menu {
+  height: 200px;
+  overflow-y: auto;
+}
+
+.dropdown-menu a {
+  color: #999999;
+}
+
+.dropdown-menu a:visited {
+  background: #ececec;
+  color: #999999;
+}
+
+.dropdown-menu a:hover {
+  background: #ececec;
+  color: #999999;
+}
+
+.dropdown-menu a:active {
+  background: #ececec;
+  color: #999999;
+}
+
+
+/*Animation*/
+@import url(http://fonts.googleapis.com/css?family=Pathway+Gothic+One);
+
+@-webkit-keyframes rotate-right {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(360deg);
+    }
+}
+@-webkit-keyframes rotate-left {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(-360deg);
+    }
+}
+@-webkit-keyframes hover {
+    0% {
+        -webkit-transform: translateY(0%);
+    }
+    50% {
+        -webkit-transform: translateY(5%);
+    }
+    100% {
+        -webkit-transform: translateY(0%);
+    }
+}
+@-webkit-keyframes pull {
+    0% {
+        -webkit-transform: scaleY(1);
+    }
+    40% {
+        -webkit-transform: scaleY(1.01);
+    }
+    60% {
+        -webkit-transform: scaleY(0.99);
+    }
+    80% {
+        -webkit-transform: scaleY(1.01);
+    }
+    100% {
+        -webkit-transform: scaleY(0.99);
+    }
+    80% {
+        -webkit-transform: scaleY(1.01);
+    }
+    100% {
+        -webkit-transform: scaleY(1);
+    }
+}
+#airplane2, #airplane1 {
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-transform-origin: 200px 200px;
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-animation: rotate-right 60s linear 0s infinite;
+}
+
+#countryObjects {
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-transform-origin: 200px 200px;
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-animation: rotate-right 240s linear 0s infinite;
+}
+
+#floatingGlobe {
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-transform-origin: 200px 200px;
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-animation: rotate-left 360s linear 0s infinite;
+}
+
+#globe {
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-animation: hover 0s linear 0s infinite;
+}
+
+#windmill {
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-transform-origin: 331px 201px;
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-animation: rotate-right 2s linear 0s infinite;
+}
+
+#cloud1 {
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-animation: hover 3s linear 1s infinite;
+}
+
+#cloud2 {
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-animation: hover 3s linear 2s infinite;
+}
+
+#cloud3 {
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-animation: hover 3s linear 3s infinite;
+}
+
+#circle1 {
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-transform-origin: 200px 200px;
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-animation: rotate-right 12s linear 0s infinite;
+}
+
+#circle2 {
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-transform-origin: 200px 200px;
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-animation: rotate-left 24s linear 0s infinite;
+}
+
+#circle3 {
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-transform-origin: 200px 200px;
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-animation: rotate-right 12s linear 0s infinite;
+}
+
+#circle4 {
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-transform-origin: 200px 200px;
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-animation: rotate-left 24s linear 0s infinite;
+}
+
+#circle5 {
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-transform-origin: 200px 200px;
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-animation: rotate-right 12s linear 0s infinite;
+}
+
+/*Carousel*/
+#carousel h2{
+  text-align: center;
+  padding: 50px;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+/*Footer*/
+#footer {
+  background: #222;
+}
+#footer h5{
+  padding-left: 10px;
+  border-left: 3px solid #eeeeee;
+  padding-bottom: 6px;
+  margin-bottom: 20px;
+  color:#ffffff;
+}
+#footer a {
+  color: #ffffff;
+  text-decoration: none !important;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+#footer ul.social li{
+  padding: 3px 0;
+}
+#footer ul.social li a i {
+  margin-right: 5px;
+  font-size:25px;
+  -webkit-transition: .5s all ease;
+  -moz-transition: .5s all ease;
+  transition: .5s all ease;
+}
+#footer ul.social li:hover a i {
+  font-size:30px;
+  margin-top:-10px;
+}
+#footer ul.social li a,
+#footer ul.quick-links li a{
+  color:#ffffff;
+}
+#footer ul.social li a:hover{
+  color:#eeeeee;
+}
+#footer ul.quick-links li{
+  padding: 3px 0;
+  -webkit-transition: .5s all ease;
+  -moz-transition: .5s all ease;
+  transition: .5s all ease;
+}
+#footer ul.quick-links li:hover{
+  padding: 3px 0;
+  margin-left:5px;
+  font-weight:700;
+}
+#footer ul.quick-links li a i{
+  margin-right: 5px;
+}
+#footer ul.quick-links li:hover a i {
+  font-weight: 700;
+}
+
+@media (max-width:767px){
+  #footer h5 {
+    padding-left: 0;
+    border-left: transparent;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+  }
+}
+.slideshow_wrapper{
+  position: relative;
+}
+.desoslide-wrapper{
+  position: relative;
+  width: 100%;
+}
+.desoslide-wrapper img{
+  width:100%;
+  min-width:100%;
+}
+.slide_thumb_wrapper {
+  position: absolute;
+  right: 0;
+  top: 25%;
+  width:160px;
+}
+#slideshow_thumbs li{
+  margin: 10px;
+}
+#slideshow_thumbs li a img{
+  max-width:100%;
+}
+.desoslide-controls-wrapper {
+  position: relative;
+  float: left;
+  height: 36px;
+  line-height: 41px;
+  bottom: 8px;
+  z-index: 100;
+  opacity: 1;
+}
+
+/*-----------------------------------------------------*/
+
+/*CSS for ramsagar file*/
+/*gallery*/
+body {
+  background-color:white;
+  font-family: "Asap", sans-serif;
+  color:#989898;
+  font-size:16px;
+}
+
+#demo {
+  height:100%;
+  position:relative;
+  overflow:hidden;
+}
+
+.green{
+  background-color:#6fb936;
+}
+.thumb{
+  margin-bottom: 30px;
+}
+
+.page-top{
+  margin-top:85px;
+}
+
+img.zoom {
+  width: 100%;
+  height: 200px;
+  border-radius:5px;
+  object-fit:cover;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  -ms-transition: all .3s ease-in-out;
+}
+
+.transition {
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.modal-header {
+
+  border-bottom: none;
+}
+.modal-title {
+  color:#000;
+}
+.modal-footer{
+  display:none;
+}
+
+#ramsagar-gallery h2 {
+  text-align: center;
+  padding-top: 50px;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+#ramsagar-collapse {
+  padding: 50px;
+}
+
+#ramsagar-collapse h2 {
+  text-align: center;
+  padding-top: 50px;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+/*-----------------------------------------------------*/
+
+/*CSS for contacts page*/
+/*Table*/
+#table {
+  background-color: #f6f6f6;
+  padding: 50px;
+  text-align: center;
+}
+
+#table h2 {
+  padding: 50px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+#table-image {
+  padding-bottom: 50px;
+}
+
+/*-----------------------------------------------------*/
+
+/*CSS for about page*/
+/*collapse*/
+#about-collapse {
+  padding: 50px;
+}
+
+#about-collapse h2 {
+  padding: 50px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+#about-image {
+  padding-bottom: 50px;
+  width: 100%;
+  height: 600px;
+}
+
+/*-----------------------------------------------------*/
+
+/*CSS for kantaji_temple page*/
+/*gallery*/
+#kantaji-gallery h2 {
+  text-align: center;
+  padding-top: 50px;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+/*collapse*/
+#kantaji-collapse {
+  padding: 50px;
+}
+
+#kantaji-collapse h2 {
+  text-align: center;
+  padding-top: 50px;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+/*-----------------------------------------------------*/
+
+/*CSS for dipshikha_school page*/
+/*gallery*/
+#dipshikha-gallery h2 {
+  text-align: center;
+  padding-top: 50px;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+/*collapse*/
+#dipshikha-collapse {
+  padding: 50px;
+}
+
+#dipshikha-collapse h2 {
+  text-align: center;
+  padding-top: 50px;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+/*-----------------------------------------------------*/
+
+/*CSS for swapnopuri page*/
+/*gallery*/
+#swapnopuri-gallery h2 {
+  text-align: center;
+  padding-top: 50px;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+/*collapse*/
+#swapnopuri-collapse {
+  padding: 50px;
+}
+
+#swapnopuri-collapse h2 {
+  text-align: center;
+  padding-top: 50px;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+/*-----------------------------------------------------*/
+
+/*CSS for rajbari_sukh_sagar page*/
+/*gallery*/
+#rajbari_sukh_sagar-gallery h2 {
+  text-align: center;
+  padding-top: 50px;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+/*collapse*/
+#rajbari_sukh_sagar-collapse {
+  padding: 50px;
+}
+
+#rajbari_sukh_sagar-collapse h2 {
+  text-align: center;
+  padding-top: 50px;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+/*-----------------------------------------------------*/
+
+/*CSS for hstu page*/
+/*gallery*/
+#hstu-gallery h2 {
+  text-align: center;
+  padding-top: 50px;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+/*collapse*/
+#hstu-collapse {
+  padding: 50px;
+}
+
+#hstu-collapse h2 {
+  text-align: center;
+  padding-top: 50px;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+/*-----------------------------------------------------*/
+
+/*CSS for dinajpur_medical_college page*/
+/*gallery*/
+#dinajpur_medical_college-gallery h2 {
+  text-align: center;
+  padding-top: 50px;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+/*collapse*/
+#dinajpur_medical_college-collapse {
+  padding: 50px;
+}
+
+#dinajpur_medical_college-collapse h2 {
+  text-align: center;
+  padding-top: 50px;
+  text-transform: uppercase;
+  color: #007bff;
+}
+
